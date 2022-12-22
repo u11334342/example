@@ -6,3 +6,4 @@ print("mnius = ", a-c)
 print("multiplication = ", a*c)
 print("division = ", a/c)
 
+print("A")
